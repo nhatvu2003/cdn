@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7e2da6ca.css",
+    "main.js": "/static/js/main.9ef86ea4.js",
+    "static/media/bg.jpg": "/static/media/bg.93484ea982664e32d765.jpg",
+    "static/media/tiktok-icon.png": "/static/media/tiktok-icon.23f6bff61a2949517e0a.png",
+    "static/media/youtube-icon.png": "/static/media/youtube-icon.f742e1fc64bb99ff9719.png",
+    "index.html": "/index.html",
+    "main.7e2da6ca.css.map": "/static/css/main.7e2da6ca.css.map",
+    "main.9ef86ea4.js.map": "/static/js/main.9ef86ea4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e2da6ca.css",
+    "static/js/main.9ef86ea4.js"
+  ]
+}
